@@ -2,7 +2,7 @@
 
 A modern and responsive e-commerce user interface built with React. This project focuses on a clean design, reusable components, and a smooth shopping experience.
 
-## 🚀 Live Demo
+##  🔗 Live Website
 
 🔗 **[View Live Website](https://react-ecommerce-ui-three.vercel.app/)**
 
